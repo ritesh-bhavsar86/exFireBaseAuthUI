@@ -26,6 +26,7 @@ dependencies {
     // Other Firebase/Play services deps
     implementation 'com.google.firebase:firebase-auth:16.0.2'
     implementation 'com.firebaseui:firebase-ui-auth:4.1.0'
+    implementation 'com.firebaseui:firebase-ui-database:4.1.0'
 
     //email verification
     implementation 'com.google.android.gms:play-services-auth:15.0.1'
